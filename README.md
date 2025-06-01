@@ -3,7 +3,7 @@
 Redo of old 2021 project using speech-to-text
 
 ## Technologies
-This project was made using Web Speech API
+This project was made using Web Speech API and vanilla JS (Vite)
 
 ## How to use
-Press spacebar to start and resume speaking. Listening stops automatically when no speech is detected.
+Intended for desktop. Press spacebar to start and grant microphone access. Listening stops automatically when no speech is detected.
